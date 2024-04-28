@@ -27,8 +27,6 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre
 
 Pour lancer le serveur, exécutez la commande suivante depuis la racine du projet :`npm start`
 
-Le serveur sera alors accessible à l'adresse `http://localhost:3000`.
-
 ## Utilisation de l'API
 
 L'API expose plusieurs endpoints pour interagir avec les données stockées dans la base de données. Voici quelques exemples d'utilisation :
