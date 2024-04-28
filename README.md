@@ -1,6 +1,6 @@
 # Projet API avec Express et MongoDB
 
-Ce projet est une API de prise de note développée en JavaScript utilisant Express comme framework express et MongoDB comme base de données.
+Ce projet est une API de prise de note développée en JavaScript utilisant Express comme framework web et MongoDB comme base de données.
 
 ## Prérequis
 
