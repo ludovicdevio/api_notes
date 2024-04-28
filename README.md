@@ -13,7 +13,7 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre
 
 ## Installation
 
-1. Clonez ce dépôt sur votre machine en utilisant la commande suivante :
+1. Clonez ce dépôt sur votre machine en utilisant la commande suivante : https://github.com/ludovicdevio/api_notes/
 
 2. Accédez au répertoire du projet depuis l'invite de commandes
 
