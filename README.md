@@ -4,7 +4,7 @@ Ce projet est une API de prise de note développée en JavaScript utilisant Expr
 
 ## Prérequis
 
-Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre machine 
+Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre machine :
 
 - Node.js
 - npm (gestionnaire de packages pour Node.js)
