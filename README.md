@@ -25,7 +25,7 @@ Avant de commencer, assurez-vous d'avoir installé les outils suivants sur votre
 
 ## Démarrage du serveur
 
-Pour lancer le serveur, exécutez la commande suivante depuis la racine du projet :`npm start`
+Pour lancer le serveur, exécutez la commande suivante depuis la racine du projet : `npm start`
 
 ## Utilisation de l'API
 
